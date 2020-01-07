@@ -1,5 +1,7 @@
 {
   "name": "curiety",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
